@@ -1,0 +1,14 @@
+*{
+    /* background-color: red; */
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    max-width: fit-content;
+    gap: 30px;
+}
