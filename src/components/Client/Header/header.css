@@ -1,8 +1,7 @@
-*{
-    /* background-color: red; */
-}
+
 
 .container{
+    background-color: beige;
     display: flex;
     justify-content: center;
 }
@@ -11,4 +10,7 @@ ul{
     justify-content: space-between;
     max-width: fit-content;
     gap: 30px;
+}
+li{
+    color: black;
 }
